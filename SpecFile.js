@@ -1,7 +1,7 @@
-describe("A Simple map", function () {
+describe("Some things", function () {
 
-    it("should be a function", function () {
-        expect(typeof Map).toBe('function');
+    it("there is function to add", function () {
+        expect(typeof add).toBe('function');
     });
 
 });
